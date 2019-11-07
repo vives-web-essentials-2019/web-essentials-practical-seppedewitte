@@ -27,11 +27,13 @@ Finished | Exercise | Difficulty
 :x: | [Popup](01-html-and-css/popup/README.md) | :star:
 :x: | [Class schedule](01-html-and-css/schedule/README.md) | :star::star:
 :x: | [Topbar icons](01-html-and-css/topbar-icons/README.md) | :star::star:
-<!-- :x: | [Login form](01-html-and-css/loginform/README.md) | :star::star: -->
-<!-- :x: | @fontface | :star::star: -->
 :x: | [Price comparison](01-html-and-css/price-comparison/README.md) | :star::star::star:
 :x: | [Card designs](01-html-and-css/card-designs/README.md) | ️️️️️️:star::star::star:
 :x: | [Blog](01-html-and-css/blog/README.md) | ️️️️️️:star::star::star:
+
+<!-- :x: | [Login form](01-html-and-css/loginform/README.md) | :star::star: -->
+<!-- :x: | [Calculator](01-html-and-css/calculator/README.md) | :star::star: -->
+<!-- :x: | @fontface | :star::star: -->
 
 ### Course landing page
 
@@ -42,5 +44,7 @@ Finished | Exercise | Difficulty
 <!-- 
 
 forms (login)
+
+https://browserframe.com/
 
  -->
