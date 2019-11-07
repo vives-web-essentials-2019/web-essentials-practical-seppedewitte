@@ -16,27 +16,31 @@ In order to *[get started](./docs/get-started.md)*, *[commit changes](./docs/com
 
 ## Exercises
 
-### HTML
+### HTML and CSS
 
 Finished | Exercise | Difficulty
 ---------|----------|---------
-❌ | Hello World | ⭐️️️️️
-❌ | Subtitles and paragraphs | ⭐️️️️️
-❌ | Lists | ⭐️️️️️
-❌ | Images | ️️️️️️⭐️️️️️
+:x: | [Boring table](01-html-and-css/simple-table/README.md) | :star:
+:x: | [Landing page](01-html-and-css/landing-page/README.md) | :star:
+:x: | [Simple layout](01-html-and-css/simple-layout/README.md) | :star:
+:x: | [OXO](01-html-and-css/oxo-grid/README.md) | :star:
+:x: | [Popup](01-html-and-css/popup/README.md) | :star:
+:x: | [Class schedule](01-html-and-css/schedule/README.md) | :star::star:
+:x: | [Topbar icons](01-html-and-css/topbar-icons/README.md) | :star::star:
+<!-- :x: | [Login form](01-html-and-css/loginform/README.md) | :star::star: -->
+<!-- :x: | @fontface | :star::star: -->
+:x: | [Price comparison](01-html-and-css/price-comparison/README.md) | :star::star::star:
+:x: | [Card designs](01-html-and-css/card-designs/README.md) | ️️️️️️:star::star::star:
+:x: | [Blog](01-html-and-css/blog/README.md) | ️️️️️️:star::star::star:
 
-### CSS
+### Course landing page
 
 Finished | Exercise | Difficulty
 ---------|----------|---------
-❌ | Font's | ⭐️️️️️
-❌ | Colors | ⭐️️️️️
-❌ | Margins and paddings | ⭐️️️️️
-❌ | Widths and heights | ️️️️️️⭐️️️️️
-❌ | Borders | ️️️️️️⭐️️️️️
-❌ | Centering | ️️️️️️⭐️️️️️
-❌ | Menu lists | ️️️️️️⭐️️️️️
-❌ | @fontface | ️️️️️️⭐️️️️️⭐️️️️️️️️
-❌ | Microblog | ️️️️️️⭐️️️️️️️️⭐️️️️️️️️⭐️️️️️️️️
+:x: | [Landing page](02-landing-page/README.md) | :star:/:star::star:/:star::star::star:
 
-### Layouts
+<!-- 
+
+forms (login)
+
+ -->
