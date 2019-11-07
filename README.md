@@ -8,5 +8,35 @@ This repository contains the exercises and assignments that accompany the Web Es
 
 ## Instructions
 
-In order to **[get started](./docs/get-started.md)**, **[commit changes](./docs/commit-changes.md)** and **[pulling changes](./docs/pull-changes.md)** you need to follow the steps that are described in the [documentation](docs/README.md).
+In order to *[get started](./docs/get-started.md)*, *[commit changes](./docs/commit-changes.md)* and *[pulling changes](./docs/pull-changes.md)* you need to follow the instructions that are described in the documentation:
 
+* [get started](./docs/get-started.md)
+* [commit changes](./docs/commit-changes.md)
+* [pulling changes](./docs/pull-changes.md)
+
+## Exercises
+
+### HTML
+
+Finished | Exercise | Difficulty
+---------|----------|---------
+❌ | Hello World | ⭐️️️️️
+❌ | Subtitles and paragraphs | ⭐️️️️️
+❌ | Lists | ⭐️️️️️
+❌ | Images | ️️️️️️⭐️️️️️
+
+### CSS
+
+Finished | Exercise | Difficulty
+---------|----------|---------
+❌ | Font's | ⭐️️️️️
+❌ | Colors | ⭐️️️️️
+❌ | Margins and paddings | ⭐️️️️️
+❌ | Widths and heights | ️️️️️️⭐️️️️️
+❌ | Borders | ️️️️️️⭐️️️️️
+❌ | Centering | ️️️️️️⭐️️️️️
+❌ | Menu lists | ️️️️️️⭐️️️️️
+❌ | @fontface | ️️️️️️⭐️️️️️⭐️️️️️️️️
+❌ | Microblog | ️️️️️️⭐️️️️️️️️⭐️️️️️️️️⭐️️️️️️️️
+
+### Layouts
