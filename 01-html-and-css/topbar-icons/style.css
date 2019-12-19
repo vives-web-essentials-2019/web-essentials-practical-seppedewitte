@@ -1,0 +1,40 @@
+body{
+    font-style: normal;
+    grid-template-columns: 55px 80px 65px 85px 75px;
+    grid-template-rows: 1fr;
+    display: grid;
+    
+    
+    
+    
+}
+#home{
+    text-align: center;
+    grid-row: 1;
+    grid-column: 1;
+    
+}
+
+#blog{
+    text-align: center;
+    grid-row: 1;
+    grid-column: 2;
+}
+
+#service{
+    text-align: center;
+    grid-row: 1;
+    grid-column: 3;
+}
+
+#about{
+    text-align: center;
+    grid-row: 1;
+    grid-column: 4;
+}
+
+#contact{
+    text-align: center;
+    grid-row: 1;
+    grid-column: 5;
+}
